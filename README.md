@@ -1,0 +1,1 @@
+Repository for Generating a Seinfeld script from scratch.  Primary code sits in dlnd_tv_script_generation.ipynb, but there is an alterative version that tries to pretrain the embeddings with negative sampling, than use those with the network
